@@ -5,7 +5,7 @@
 确保一个类只有一个实例，并提供一个访问该实例的全局节点。
 
 - [参考教程](https://refactoringgurucn/design-patterns/singleton)
-- [视频讲解](https://www.bilibili.com/video/BV1af4y1y7sS/?vd_source=7712ed3b76310965950f07339f9013b5)
+- [视频讲解](https://www.bilibili.com/video/BV1af4y1y7sS/)
 
 
 ## 要求
