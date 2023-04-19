@@ -19,6 +19,7 @@
 - [原型模式](./src/2.%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F/Prototype.md)
 - [简单工厂模式](./src/3.%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/SimpleFactory.md)
 - [工厂模式](./src/4.%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/Factory.md)
+- [抽象工厂模式](./src/5.%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/AbstractFactory.md)
 
 
 ## 结构型模式
