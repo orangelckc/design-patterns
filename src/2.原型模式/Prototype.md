@@ -88,7 +88,11 @@ obj2.name = 'obj2'
 obj2.child.name = 'child2'
 ```
 
-## 5. 原型注册表
+## 5. 代码实现
+
+[code](./%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.ts)
+
+## 6. 原型注册表
 
 [code](./%E5%8E%9F%E5%9E%8B%E6%B3%A8%E5%86%8C%E8%A1%A8.ts)
 

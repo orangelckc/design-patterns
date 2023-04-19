@@ -6,7 +6,7 @@
 
 - [单例模式](./src/1.%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/Singleton.md)
 - [原型模式](./src/2.%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F/Prototype.md)
-
+- [简单工厂模式](./src/3.%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/SimpleFactory.md)
 
 
 ## 结构型模式
